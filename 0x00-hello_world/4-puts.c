@@ -1,12 +1,10 @@
 #include <stdio.h>
-
 /**
- * main- use puts to print a string 
- * Return: 0
+ *main- Using puts to print a string
+ *Return: ends with 0
  */
-
 int main(void)
-{	
+{
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
