@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 /**
- * main - Main function
+ * main- main function
  * Return: 0
  */
 int main(void)
@@ -11,3 +11,4 @@ int main(void)
 		putchar(i);
 	putchar('\n');
 	return (0);
+}
