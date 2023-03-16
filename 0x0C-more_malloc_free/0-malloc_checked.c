@@ -10,7 +10,7 @@ void *malloc_checked(unsigned int b)
 {
 	void *qwy;
 
-	ptr = malloc(b);
+	qwy = malloc(b);
 	if (qwy == NULL)
 		exit(98);
 	return (qwy);
